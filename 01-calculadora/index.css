@@ -1,0 +1,22 @@
+buttonBlue
+{
+	background-color: #0066cc;
+	color:white;
+}
+.buttonGreen
+{
+	background-color: #53ff1a;
+}
+.buttonOrange
+{
+	background-color: #ff6600;
+}
+.buttonRed
+{
+	background-color:#ff0000;
+}
+
+.buttonlargo
+{
+  width: 100%
+}
